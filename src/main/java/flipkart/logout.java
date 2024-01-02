@@ -4,7 +4,7 @@ package flipkart;
  * Hello world!
  *
  */
-public class login 
+public class logout 
 {
     public static void main( String[] args )
     {
